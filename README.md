@@ -20,4 +20,4 @@ Tecnologías utilizadas en mis proyectos:
 | **Backend** | Node.js · NestJS · Express · Jakarta REST / Jersey · Flask |
 | **Frontend** | React · Next.js · Angular · Vue.js · HTML · CSS |
 | **Datos y persistencia** | PostgreSQL · MySQL · MongoDB · IndexedDB · TypeORM · Hibernate / JPA · SQLAlchemy |
-| **Herramientas e integración** | Git · Docker · Maven · Swagger / OpenAPI · Bonita BPM |
+| **Herramientas e integración** | Git · Docker · Maven · Swagger / OpenAPI · BPM |
